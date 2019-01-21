@@ -1,0 +1,1 @@
+installutil -i SelfHostWebAPI.exe
